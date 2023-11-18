@@ -1,2 +1,5 @@
-# ABM-prediction
-In this project, I estimated parameter values for a financial model using the generalized moments method and classified investors into neutral, trend-following, and mean-reverting categories based on the correlation between their inventory changes and same-day returns.
+# ABM-Calibration
+In this project, I estimated parameter values for a financial model with two methodes :
+
+- The generalized moments method
+- A database that describe the change of invetory of investors which enables me to study their market strategies and determine the parametres that results in the highest correlation between their inventory changes and same-day returns.
