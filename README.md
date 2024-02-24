@@ -1,5 +1,10 @@
 # ABM-Calibration
-In this project, I estimated parameter values for a financial model with two methodes :
+
+This project focuses on estimating parameter values for a financial model using two methods:
 
 - The generalized moments method
-- A database that describe the change of invetory of investors which enables me to study their market strategies and determine the parametres that results in the highest correlation between their inventory changes and same-day returns.
+- Analyzing a database that describes changes in investor inventory, allowing for the study of market strategies and the determination of parameters resulting in the highest correlation between inventory changes and same-day returns.
+
+This work was conducted in collaboration with other students from CentraleSupelec.
+
+Feel free to explore the project for detailed implementation and results. If you have any questions or feedback, please don't hesitate to reach out.
